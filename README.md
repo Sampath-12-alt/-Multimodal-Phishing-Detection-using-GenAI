@@ -4,6 +4,8 @@ This project identifies phishing websites using **multimodal data** — both **H
 Modern phishing websites use advanced techniques like deceptive UI, screenshots, and hidden text inside images.  
 So this project combines multiple signals to detect phishing pages more accurately.
 
+> Repository update: this project was synced to GitHub on 2026-07-02.
+
 ---
 
 ## 🚀 Project Overview
@@ -137,10 +139,5 @@ Useful for:
 
 ---
 
-## 🧑‍💻 Author
 
-**Arun Banoth**  
-B.Tech CSE, NIT Patna  
-
----
 
